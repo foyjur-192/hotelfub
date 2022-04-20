@@ -1,0 +1,144 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.background{
+    background: url('https://news.cgtn.com/news/3d3d514f7963444d34457a6333566d54/img/93efcef214944d4baf58a7d179455586/93efcef214944d4baf58a7d179455586.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.background2{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+
+.content{
+   margin: 0px 30px;
+}
+
+
+
+.content label{
+    display: block;
+    text-align: left;
+  
+    margin-bottom: 5px;
+}
+
+.content input{
+  width: 365px;
+  height: 32px;
+  padding-left: 5px;
+   text-align: left;
+}
+
+.check{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    margin: 0px 30px;
+    margin-top: 30px;
+   
+}
+ .CheckIn label{
+ font-size: 16px;
+ margin-bottom: 5px;
+ 
+}
+.CheckIn input{
+    width: 165px;
+    height: 32px;
+    margin-top: 5px;
+      padding-left: 5px;
+  
+}
+
+.CheckOut input {
+    margin-left: 28px;
+    height: 32px;
+    margin-top: 5px;
+    width: 165px;
+    padding-left: 30p;
+    padding-left: 5px;
+
+}
+
+.CheckOut label {
+    margin-left: 28px;
+}
+
+.details{
+    display: flex;
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 30px;
+  
+
+}
+
+
+.Rooms{
+    margin-right: 23px;
+}
+
+.Adults {
+    margin-right: 23px;
+}
+.Rooms label{
+font-size: 16px;
+}
+
+.Rooms input{
+   width: 100px ;
+   height: 32px;
+   margin-top: 5px;
+   padding-left: 5px;
+   
+}
+
+.Adults input{
+    width: 100px ;
+    height: 32px;
+    margin-top: 5px;
+    padding-left: 5px;
+  
+}
+
+.Adults label {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.Children input{
+    width: 100px ;
+    height: 32px;
+    margin-top: 5px;
+    padding-left: 5px;
+  
+}
+
+.submitBtn{
+    background-color: #d8306e;
+    border: none;
+    padding: 12px 15px;
+    position: relative;
+    margin-right: 190px;
+    margin-top: 30px;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Single Room ",
+    "price": "50 per night",
+    "ratings": 5,
+    "details": "This room for single person,Including all  the facilities",
+    "img": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Double Room",
+    "price": "$60 per night",
+    "details": "This room for couple who is in Honeymoon  include  fan part ",
+    "ratings": 5,
+    "img": "https://www.mews.com/hubfs/Increasing%20revenue%20with%20day%20use%20rooms_Hero%20-%201245x1014.png"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Family Room",
+    "price": "$80 per night",
+    "details": "This room for family,comfortably can stay here.",
+    "ratings": 4,
+    "img": "https://kingsways.in/wp-content/uploads/2021/03/hotel-room-design-trends-italianbark-interior-design-blog.jpg"
+    
+  }
+]
